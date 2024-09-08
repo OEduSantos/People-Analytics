@@ -162,6 +162,16 @@ Após a avaliação, foram realizadas as seguintes etapas:
 
 2. **Identificação do Público**: Foi realizada uma maior identificação do público dentro dos clusters para entender melhor as necessidades e os comportamentos dos funcionários em cada grupo.
 
+   Com base no cluster em que o funcionário se encontra, algumas das ações recomendadas incluem:
+
+   - **Programas de Desenvolvimento Educacional**: Oferecer subsídios para melhorias educacionais e treinamentos internos relevantes.
+   - **Iniciativas de Retenção de Talentos**: Desenvolver políticas de reconhecimento e bonificações para aumentar o engajamento.
+   - **Melhorias no Ambiente de Trabalho**: Implementar melhorias na infraestrutura e promover um ambiente de trabalho mais inclusivo e colaborativo.
+   - **Pesquisas de Engajamento**: Realizar pesquisas para entender melhor as necessidades dos funcionários e implementar melhorias contínuas.
+   - **Foco no Engajamento Feminino**: Desenvolver iniciativas voltadas para melhorar a satisfação das funcionárias.
+   - **Promoções e Crescimento Interno**: Monitorar e oferecer planos de carreira para funcionários com mais tempo na empresa.
+
+
 ## Próximas Etapas
 
 1. **Estudo de Retenção**: A área de negócios deverá conduzir um estudo para avaliar o custo envolvido na retenção dos funcionários. Isso incluirá a análise dos investimentos necessários para reduzir a rotatividade e as estratégias mais eficazes para manter os funcionários em cada cluster. A decisão sobre a implementação do modelo de retenção será baseada nas conclusões desse estudo.
