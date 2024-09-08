@@ -148,7 +148,7 @@ As métricas de desempenho para o modelo de regressão logística são:
 
 Distribuição do público nos deciles durante as etapas de teste:
 
-| Decil | Pontuação Mínima | Pontuação Máxima | Taxa de Evento | Volume |
+| Faixa | Pontuação Mínima | Pontuação Máxima | Taxa de Evento | Volume |
 |-------|------------------|------------------|----------------|--------|
 | 0     | 0,0000           | 0,0069           | 0,049550       | 222    |
 | 1     | 0,0476           | 0,0779           | 0,095023       | 221    |
