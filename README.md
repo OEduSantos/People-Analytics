@@ -8,7 +8,7 @@ Por outro lado, a RetailX identificou a oportunidade de melhorar o relacionament
 
 Diante deste cenário, a empresa decidiu investir em dois projetos principais utilizando a metodologia **CRISP-DM** (Cross-Industry Standard Process for Data Mining) para estruturar e conduzir as análises de dados:
 
-### Projeto para o RH
+### [Projeto para o RH](RH)
 
 Aplicando a abordagem CRISP-DM, o projeto segue as seguintes etapas:
 
