@@ -52,7 +52,7 @@ A empresa forneceu datasets contendo informações dos funcionários, incluindo 
 2. **Redução de Dimensionalidade**:
    - **PCA**: Aplicação da Análise de Componentes Principais (PCA) para reduzir a dimensionalidade dos dados, mantendo 75% da variância explicada.
 
-### Etapa de Modelagem
+### Etapa Preditiva
 
 1. **Preparação dos Dados**:
    - **Imputação**: Preenchimento de valores faltantes usando mediana para variáveis numéricas e valor mais frequente para variáveis categóricas.
