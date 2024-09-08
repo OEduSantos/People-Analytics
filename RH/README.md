@@ -117,11 +117,11 @@ A seguir, apresentamos a avaliação dos modelos de Clusterização e Preditivo.
 
 Dividimos nosso público em 8 clusters, resultando na seguinte distribuição:
 
-![Clusterização do Público](RH/Imagens/FuncionariosPorCluster.png)
+![Clusterização do Público](Imagens/FuncionariosPorCluster.png)
 
 Os resultados iniciais da clusterização são:
 
-![Resultado Clusterização](RH/Imagens/MediaRotatividadePorCluster.png)
+![Resultado Clusterização](Imagens/MediaRotatividadePorCluster.png)
 
 Observações:
 - **Clusters com Maior Rotatividade**:
@@ -136,7 +136,7 @@ Observações:
 
 Na etapa preditiva, optamos por ordenar a regressão logística em 5 faixas (decil):
 
-![Ordenação por Decil](RH/Imagens/OrdenacaoPorDecil.png)
+![Ordenação por Decil](Imagens/OrdenacaoPorDecil.png)
 
 As métricas de desempenho para o modelo de regressão logística são:
 
