@@ -19,7 +19,7 @@ Aplicando a abordagem CRISP-DM, o projeto segue as seguintes etapas:
 - **Avaliação**: Validar os modelos e interpretar os resultados para garantir a eficácia na identificação de fatores críticos.
 - **Implementação**: Gerar um relatório com as conclusões para que o gestor de RH possa tomar as devidas providências para reduzir a rotatividade.
 
-### Projeto para o CRM
+### [Projeto para o CRM](CRM)
 
 Seguindo também a abordagem CRISP-DM, o projeto envolve as seguintes etapas:
 
